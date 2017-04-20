@@ -8,6 +8,7 @@
 * Software Files
 	* Provided Files
 	* Developed Files
-* Experiments
-
+* Experiments: Provided LabVIEW Experiments
+* EagleFiles: Files for Schematic
+* SimulinkFiles: Files for Block Diagram
 
